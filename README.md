@@ -1,1 +1,2 @@
 # Predictive-modelling-Hotel
+The **Exceptional Dining Experience PPT** presents an analysis of hotel performance across multiple cities, focusing on key metrics like room bookings, occupancy rates, and property categories. It leverages a comprehensive dataset to uncover trends, optimize hotel management, and enhance customer satisfaction. The presentation includes insights on city-wise occupancy, weekday vs. weekend trends, successful booking rates, and the popularity of different room categories, using data analysis and predictive modeling techniques.
